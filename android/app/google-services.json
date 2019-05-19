@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623287448511",
+    "firebase_url": "https://buseclearance.firebaseio.com",
+    "project_id": "buseclearance",
+    "storage_bucket": "buseclearance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623287448511:android:5024a58aa22e3fcd",
+        "android_client_info": {
+          "package_name": "com.example.buseclear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623287448511-57pprmkggsie4l2pvhl112jc6g6asq16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPkJiqs3MlSz7D_0vvoPuZknxgAWwbKao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623287448511-57pprmkggsie4l2pvhl112jc6g6asq16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
